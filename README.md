@@ -56,4 +56,5 @@ Sub-category profit comparison highlighting top-performing products
 Clean, dark-themed UI with intuitive visuals and cross-filtering
 
 Screen Short :- 
+Show what the dashboard looks like. - ![Alt text](https://github.com/Rishabh-0109/AJMERA-SALES-DASHBOARD/blob/main/Ajmera%20Ecommerce%20Sales%20Dashboard%20SS.png).
 Example: ![Dashboard Preview].(https://github.com/Rishabh-0109/AJMERA-SALES-DASHBOARD/blob/main/Ajmera%20Ecommerce%20Sales%20Dashboard%20SS.png).
